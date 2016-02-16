@@ -21,7 +21,7 @@
     "require-dev": {
         "mockery/mockery": "dev-master",
         "phpunit/phpunit": "~4.0",
-        "laravel/laravel": "5.2*"
+        "laravel/laravel": "5.2.*"
     },
     "autoload": {
         "classmap": [
